@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto&display=swap");
+* {
+  padding: 0;
+  margin: 0; }
+
+.botonera {
+  background-color: #8B37A0; }
+  .botonera img {
+    width: 50%; }
+  .botonera ul li {
+    list-style: none; }
+    .botonera ul li a {
+      color: #ffffff;
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 1em;
+      margin-right: 10px;
+      margin-left: 10px; }
+      .botonera ul li a:hover {
+        font-weight: 700;
+        color: #FCF2FF; }
+
+#principal_section {
+  background: #ffffff; }
+  #principal_section h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 2.438em;
+    font-weight: 700;
+    color: #8B37A0;
+    padding: 20 0px; }
+  #principal_section h5 {
+    font-family: "Inter", sans-serif;
+    font-size: 1.563em;
+    font-weight: 700;
+    color: #A11949;
+    padding: 20 0px; }
+  #principal_section p {
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    color: #AAAAAA;
+    padding: 20 0px; }
+  #principal_section button {
+    background-color: #CA2B64;
+    border-radius: 8px;
+    padding: 8px;
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-weight: 700; }
+    #principal_section button:hover {
+      background-color: #661F77; }
+
+#exampleModal1 div h5 {
+  font-family: "Inter", sans-serif;
+  font-size: 1.563em;
+  font-weight: 700;
+  color: #A11949;
+  padding: 20 0px; }
+
+#exampleModal1 div p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #AAAAAA;
+  padding: 20 0px; }
+
+#exampleModal2 div h5 {
+  font-family: "Inter", sans-serif;
+  font-size: 1.563em;
+  font-weight: 700;
+  color: #A11949;
+  padding: 20 0px; }
+
+#exampleModal2 div p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #AAAAAA;
+  padding: 20 0px; }
+
+#exampleModal3 div h5 {
+  font-family: "Inter", sans-serif;
+  font-size: 1.563em;
+  font-weight: 700;
+  color: #A11949;
+  padding: 20 0px; }
+
+#exampleModal3 div p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #AAAAAA;
+  padding: 20 0px; }
+
+#exampleModal4 div h5 {
+  font-family: "Inter", sans-serif;
+  font-size: 1.563em;
+  font-weight: 700;
+  color: #A11949;
+  padding: 20 0px; }
+
+#exampleModal4 div p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #AAAAAA;
+  padding: 20 0px; }
+
+#secondary_section {
+  background-color: #FFB5CF;
+  padding: 24px; }
+  #secondary_section h2 {
+    color: #8B37A0;
+    font-size: 2.438em;
+    font-weight: 700; }
+  #secondary_section p {
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    color: #420E4E;
+    padding: 20 0px; }
+  #secondary_section button {
+    background-color: #CA2B64;
+    border-radius: 8px;
+    padding: 8px;
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-weight: 700; }
+    #secondary_section button:hover {
+      background-color: #661F77; }
+
+#cierre {
+  background-color: #420E4E; }
+  #cierre h4 {
+    color: #EEA6FF;
+    font-size: 1em;
+    font-weight: 700;
+    font-family: "Inter", sans-serif; }
+  #cierre a {
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif; }

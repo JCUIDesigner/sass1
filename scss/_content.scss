@@ -1,0 +1,160 @@
+//Seccion principal/
+#principal_section{
+	background:$bw02;
+	h1{
+		font-family: $fontMain;
+		font-size: $textLg;
+		font-weight: $textBold;
+		color:$primaryColor06;
+		padding: 20 0px;
+	}
+	h5{
+		font-family: $fontMain;
+		font-size: $textMd;
+		font-weight: $textBold;
+		color:$secondaryColor06;
+		padding: 20 0px;
+	}
+	p{
+		font-family: $fontSecondary;
+		font-size: $textSm;
+		font-weight: $textRegular;
+		color:$neutral03;
+		padding: 20 0px;	
+	}
+	button{
+		background-color: $secondaryColor05;
+		border-radius: 8px;
+		padding: 8px;
+		color: $bw02;
+		font-family:$fontMain;
+		font-weight: $textBold;
+		&:hover{
+			background-color:$primaryColor07;
+		}
+	}
+}
+
+//Modals/
+#exampleModal1{
+	div{
+		h5{
+			font-family: $fontMain;
+			font-size: $textMd;
+			font-weight: $textBold;
+			color:$secondaryColor06;
+			padding: 20 0px;
+		}
+		p{
+			font-family: $fontSecondary;
+			font-size: $textSm;
+			font-weight: $textRegular;
+			color:$neutral03;
+			padding: 20 0px;	
+		}
+	}
+
+}
+#exampleModal2{
+	div{
+		h5{
+			font-family: $fontMain;
+			font-size: $textMd;
+			font-weight: $textBold;
+			color:$secondaryColor06;
+			padding: 20 0px;
+		}
+		p{
+			font-family: $fontSecondary;
+			font-size: $textSm;
+			font-weight: $textRegular;
+			color:$neutral03;
+			padding: 20 0px;	
+		}
+	}
+
+}
+#exampleModal3{
+	div{
+		h5{
+			font-family: $fontMain;
+			font-size: $textMd;
+			font-weight: $textBold;
+			color:$secondaryColor06;
+			padding: 20 0px;
+		}
+		p{
+			font-family: $fontSecondary;
+			font-size: $textSm;
+			font-weight: $textRegular;
+			color:$neutral03;
+			padding: 20 0px;	
+		}
+	}
+
+}
+#exampleModal4{
+	div{
+		h5{
+			font-family: $fontMain;
+			font-size: $textMd;
+			font-weight: $textBold;
+			color:$secondaryColor06;
+			padding: 20 0px;
+		}
+		p{
+			font-family: $fontSecondary;
+			font-size: $textSm;
+			font-weight: $textRegular;
+			color:$neutral03;
+			padding: 20 0px;	
+		}
+	}
+
+}
+
+//Seccion secundaria/
+#secondary_section{
+	background-color:$secondaryColor02;
+	padding:24px;
+	h2{
+		color: $primaryColor06;
+		font-size: $textLg;
+		font-weight: $textBold;
+	}
+	p{
+		font-family: $fontSecondary;
+		font-size: $textSm;
+		font-weight: $textRegular;
+		color:$primaryColor08;
+		padding: 20 0px;
+	}
+	button{
+		background-color: $secondaryColor05;
+		border-radius: 8px;
+		padding: 8px;
+		color: $bw02;
+		font-family:$fontMain;
+		font-weight: $textBold;
+		&:hover{
+			background-color:$primaryColor07;
+		}
+	}
+}
+
+//Footer/
+#cierre{
+	background-color: $primaryColor08;
+	h4{
+		color: $primaryColor03;
+		font-size: $textSm;
+		font-weight: $textBold;
+		font-family:$fontMain;
+	}
+	a{
+		color: $bw02;
+		font-size: $textSm;
+		font-weight: $textBold;
+		font-family:$fontSecondary;
+	}
+}
